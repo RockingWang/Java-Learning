@@ -1,4 +1,4 @@
-package cn.rockingwang.learning.java.concurrency.lock;
+package cn.rockingwang.concurrency.lock;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

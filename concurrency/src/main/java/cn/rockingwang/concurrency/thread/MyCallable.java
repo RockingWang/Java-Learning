@@ -1,4 +1,4 @@
-package cn.rockingwang.learning.java.concurrency.thread;
+package cn.rockingwang.concurrency.thread;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

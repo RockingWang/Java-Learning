@@ -1,4 +1,4 @@
-package cn.rockingwang.learning.java.concurrency.thread;
+package cn.rockingwang.concurrency.thread;
 
 public class JoinExample {
 

@@ -1,6 +1,7 @@
-package cn.rockingwang.learning.java.concurrency.threadpool;
+package cn.rockingwang.concurrency.threadpool;
 
-import cn.rockingwang.learning.java.concurrency.thread.MyRunnable;
+
+import cn.rockingwang.concurrency.thread.MyRunnable;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

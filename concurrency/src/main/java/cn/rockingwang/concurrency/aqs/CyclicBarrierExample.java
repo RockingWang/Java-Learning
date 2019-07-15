@@ -1,4 +1,4 @@
-package cn.rockingwang.learning.java.concurrency.aqs;
+package cn.rockingwang.concurrency.aqs;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

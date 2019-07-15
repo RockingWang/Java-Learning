@@ -1,4 +1,4 @@
-package cn.rockingwang.learning.java.concurrency.thread;
+package cn.rockingwang.concurrency.thread;
 
 /**
  * 实现 runnable 方式新建线程

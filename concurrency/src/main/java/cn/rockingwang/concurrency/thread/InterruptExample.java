@@ -1,4 +1,4 @@
-package cn.rockingwang.learning.java.concurrency.thread;
+package cn.rockingwang.concurrency.thread;
 
 /**
  * 1. Interrupt thread 测试
